@@ -72,3 +72,23 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BraveNewWorld/Config/DefaultEngine.ini
+BraveNewWorld/Content/Blueprints/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+BraveNewWorld/Content/Levels/TestMap.umap
+BraveNewWorld/Intermediate/AssetRegistryCache/6d422177.bin
+BraveNewWorld/Intermediate/AssetRegistryCache/c4df2b93.bin
+BraveNewWorld/Intermediate/CachedAssetRegistry.bin
+BraveNewWorld/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+BraveNewWorld/Saved/Autosaves/PackageRestoreData.json
+BraveNewWorld/Saved/AutoScreenshot.png
+BraveNewWorld/Saved/Config/CrashReportClient/UECC-Windows-3B7DA27A4A722E0CD4632DAEE4D74885/CrashReportClient.ini
+BraveNewWorld/Saved/Config/CrashReportClient/UECC-Windows-DC07C7C24D4CA53387AFDCBB01C3D480/CrashReportClient.ini
+BraveNewWorld/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+BraveNewWorld/Saved/Config/WindowsEditor/Engine.ini
+BraveNewWorld/Saved/Crashes/UECC-Windows-DC07C7C24D4CA53387AFDCBB01C3D480_0000/BraveNewWorld_2.log
+BraveNewWorld/Saved/Crashes/UECC-Windows-DC07C7C24D4CA53387AFDCBB01C3D480_0000/CrashContext.runtime-xml
+BraveNewWorld/Saved/Crashes/UECC-Windows-DC07C7C24D4CA53387AFDCBB01C3D480_0000/CrashReportClient.ini
+BraveNewWorld/Saved/Crashes/UECC-Windows-DC07C7C24D4CA53387AFDCBB01C3D480_0000/UEMinidump.dmp
+BraveNewWorld/Saved/Logs/BraveNewWorld-backup-2021.07.27-23.31.59.log
+BraveNewWorld/Saved/Logs/BraveNewWorld.log
+BraveNewWorld/Saved/Logs/BraveNewWorld_2.log
